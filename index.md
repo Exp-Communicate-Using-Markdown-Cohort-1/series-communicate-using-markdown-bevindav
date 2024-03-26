@@ -8,3 +8,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] UTS Dasar Pemrograman
+- [x] UTS Matematika
+- [ ] UTS Fisika
+- [ ] UTS Kimia
+- [ ] UTS Olahraga
+- [ ] UTS Komputasi dan Masyarakat
